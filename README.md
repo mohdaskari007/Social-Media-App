@@ -15,36 +15,44 @@ npm run dev
 ```
 
 
+
+
 ## Project OverView
 
 | •	Landing page |
 | ----------------- |
-![image](https://github.com/user-attachments/assets/b5c6ec09-e145-414f-949e-a46a01fd8955)
+![image](https://github.com/user-attachments/assets/0aa2a11d-2039-4ecb-ae1f-7a4e77d4bdad)
 
 
 
 |•	Home Page |
 | ----------------- |
- ![image](https://github.com/user-attachments/assets/0fbf104a-1141-4db3-83db-0e03544c35b6)
+![image](https://github.com/user-attachments/assets/e7ecc691-0ecd-4ba9-b506-d208968d55b8)
+
+
 
 
 •	Create posts
 | ----------------- |
- ![image](https://github.com/user-attachments/assets/1a9ce0c5-222b-400e-87a0-1b8c0325cd05)
+![image](https://github.com/user-attachments/assets/537a0f30-9098-46de-b118-517543c35e06)
+
 
 
 •	Update profile
 | ----------------- |
- ![image](https://github.com/user-attachments/assets/6904bba4-5489-419d-b2f6-33d189af0357)
+![image](https://github.com/user-attachments/assets/1a9e6a57-9520-44d7-b0d1-7dc0883c6648)
+
 
 
 •	Profile
 | ----------------- |
- ![image](https://github.com/user-attachments/assets/1bab7981-3466-4b05-9d89-8b152a74a4fa)
+![image](https://github.com/user-attachments/assets/d471ddfe-24d6-49e8-9983-22a2e0817d7f)
+
 
 
 •	Notifications
 | ----------------- |
- ![image](https://github.com/user-attachments/assets/0c0b2e6f-9543-4aa6-963b-be4a675ab421)
+![image](https://github.com/user-attachments/assets/df2ab1a0-313b-43ca-b03b-4607e127e1ff)
+
 
 
